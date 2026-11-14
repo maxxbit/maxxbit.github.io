@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "activationCode": "NORDIC-7KX9",
+  "status": "active",
+
+  "tenant": {
+    "id": "NORDIC",
+    "name": "Nordic Pharmaceuticals"
+  },
+
+  "server": {
+    "apiBaseUrl": "https://n.helpenable.com"
+  },
+
+  "branding": {
+    "version": 3,
+
+    "logo": {
+      "url": "https://n.helpenable.com/assets/nordic/logo.png",
+      "sha256": "LOGO_SHA256_HASH"
+    },
+
+    "splash": {
+      "url": "https://n.helpenable.com/assets/nordic/splash.png",
+      "sha256": "SPLASH_SHA256_HASH"
+    },
+
+    "primaryColor": "#1565C0",
+    "secondaryColor": "#FFFFFF",
+    "backgroundColor": "#F5F7FA",
+    "textColor": "#212121"
+  },
+
+  "features": {
+    "gpsTracking": true,
+    "attendance": true,
+    "expenses": true,
+    "orders": false
+  },
+
+  "application": {
+    "minimumVersion": "1.0.0",
+    "latestVersion": "1.0.0"
+  },
+
+  "configurationVersion": 5
+}
