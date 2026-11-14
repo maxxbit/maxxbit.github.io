@@ -5,6 +5,7 @@
 
   "tenant": {
     "id": "NORDIC",
+    "code": "NORDIC-7KX8",
     "name": "Nordic Pharmaceuticals"
   },
 
@@ -15,7 +16,7 @@
   "branding": {
     "version": 1,
 
-    "appName": "FieldForce",
+    "appName": "DRISHTI",
     "businessName": "Nordic Pharmaceuticals",
     "tagline": "Empowering Your Field Force",
     "loginTitle": "Welcome to Nordic",
