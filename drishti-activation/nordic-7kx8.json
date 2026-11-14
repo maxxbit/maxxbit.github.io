@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "activationCode": "NORDIC-7KX9",
+  "configurationVersion": 1,
   "status": "active",
 
   "tenant": {
@@ -13,22 +13,32 @@
   },
 
   "branding": {
-    "version": 3,
+    "version": 1,
+
+    "appName": "FieldForce",
+    "businessName": "Nordic Pharmaceuticals",
+    "tagline": "Empowering Your Field Force",
+    "loginTitle": "Welcome to Nordic",
+    "loginCaption": "Employee Login",
+    "footerText": "Powered by Maxxbit",
 
     "logo": {
-      "url": "https://n.helpenable.com/assets/nordic/logo.png",
-      "sha256": "LOGO_SHA256_HASH"
+      "url": "https://maxxbit.com/assets/nordic/logo-v1.png",
+      "version": 1,
+      "sha256": ""
     },
 
     "splash": {
-      "url": "https://n.helpenable.com/assets/nordic/splash.png",
-      "sha256": "SPLASH_SHA256_HASH"
+      "url": "https://maxxbit.com/assets/nordic/splash-v1.png",
+      "version": 1,
+      "sha256": ""
     },
 
     "primaryColor": "#1565C0",
     "secondaryColor": "#FFFFFF",
     "backgroundColor": "#F5F7FA",
-    "textColor": "#212121"
+    "textColor": "#212121",
+    "accentColor": "#42A5F5"
   },
 
   "features": {
@@ -41,7 +51,5 @@
   "application": {
     "minimumVersion": "1.0.0",
     "latestVersion": "1.0.0"
-  },
-
-  "configurationVersion": 5
+  }
 }
