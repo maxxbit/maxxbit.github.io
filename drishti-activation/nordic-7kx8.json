@@ -28,7 +28,11 @@
       "version": 1,
       "sha256": ""
     },
-
+    "logoDark": {
+      "url": "https://maxxbit.com/assets/nordic/logo-white-v1.png",
+      "version": 1,
+      "sha256": ""
+    },
     "splash": {
       "url": "https://maxxbit.com/assets/nordic/splash-v1.png",
       "version": 1,
