@@ -26,17 +26,17 @@
     "logo": {
       "url": "https://maxxbit.com/assets/nordic/logo-v1.png",
       "version": 1,
-      "sha256": ""
+      "sha256": "038c201d6bbf9a404c1a935b1904cf2faba8b8fd118c9ef3e51ae48f25df6de7"
     },
     "logoDark": {
       "url": "https://maxxbit.com/assets/nordic/logo-white-v1.png",
       "version": 1,
-      "sha256": ""
+      "sha256": "0ec667841aa5d3190cf78d72ee7cb60e65e2ba2479fa967197e0103d9e773d17"
     },
     "splash": {
       "url": "https://maxxbit.com/assets/nordic/splash-v1.png",
       "version": 1,
-      "sha256": ""
+      "sha256": "b0bb57e19ef590897d34ad5213804e0b97bf5803df1d3f020b7455c1ae45ad37"
     },
 
     "primaryColor": "#1565C0",
