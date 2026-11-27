@@ -50,7 +50,8 @@
     "gpsTracking": true,
     "attendance": true,
     "expenses": true,
-    "orders": false
+    "orders": false,
+    "ads": true
   },
 
   "application": {
